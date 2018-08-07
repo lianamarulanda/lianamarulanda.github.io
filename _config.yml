@@ -35,7 +35,7 @@ subtitle: hello world
 description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for a Jekyll theme version of
   HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
+author: Liana Marulanda
 email: lianamarulanda@ufl.edu
 avatar: assets/images/avatar.jpg
 
@@ -44,11 +44,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:
+facebook_url: facebook.com/lianamarulanda
 github_url:
 googleplus_url:
 instagram_url:
-linkedin_url:
+linkedin_url: linkedin.com/in/lianamarulanda
 pinterest_url:
 slack_url:
 twitter_url:
