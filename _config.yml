@@ -37,18 +37,18 @@ description: >- # this means to ignore newlines until "baseurl:"
   HTML5 UP's sleek, responsive site template Prologue.
 author: Liana Marulanda
 email: lianamarulanda@ufl.edu
-avatar: assets/images/IMG_1316.JPG
+avatar: assets/images/???
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url: facebook.com/lianamarulanda
+facebook_url:<a href="facebook.com/lianamarulanda"></a>
 github_url:
 googleplus_url:
 instagram_url:
-linkedin_url: linkedin.com/in/lianamarulanda
+linkedin_url:<a href="linkedin.com/in/lianamarulanda"></a>
 pinterest_url:
 slack_url:
 twitter_url:
