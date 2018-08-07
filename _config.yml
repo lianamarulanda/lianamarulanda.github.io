@@ -44,11 +44,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:lianamarulanda
+facebook_url: lianamarulanda
 github_url:
 googleplus_url:
 instagram_url:
-linkedin_url:lianamarulanda
+linkedin_url: lianamarulanda
 pinterest_url:
 slack_url:
 twitter_url:
