@@ -441,7 +441,7 @@
 		@include vendor('transition', 'background-color 0.35s ease-in-out');
 
 		&:hover {
-			background-color: #794cff;
+			background-color: #551A8B;
 		}
 
 		&:active {
@@ -609,7 +609,7 @@
 						color: #fff;
 
 						span:before {
-							color: #794cff;
+							color: #551A8B;
 						}
 					}
 				}
